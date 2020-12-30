@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Registrarse en la pagina de la comunidad de tester." skipped="0" tests="1" time="114.62" timestamp="2020-12-29 06:51:05"><testcase name="Registrar un nuevo usuario"><error message="Element should have been &quot;select&quot; but was &quot;ng-message&quot;&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-HGED66D', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.support.ui.UnexpectedTagNameException">Element should have been "select" but was "ng-message"
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HGED66D', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: driver.version: unknown</error><system-err>Element should have been "select" but was "ng-message"
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HGED66D', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: driver.version: unknown&#13;
+choucair.prueba.proyectobase.tasks.Registrar.performAs(Registrar.java:41)&#13;
+choucair.prueba.proyectobase.stepdefinitions.choucairRetoStepDefinitions.ellaDiligenciaElFormularioConSuInformacionPersonal(choucairRetoStepDefinitions.java:30)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
